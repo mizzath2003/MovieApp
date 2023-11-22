@@ -2,7 +2,7 @@
 
 Welcome to my first React project - a movie app that lets you search for movies using an API.
 
-Project website: [Movie App]([https://test.masterit.lk](https://mizzath2003.github.io/MovieApp/))
+Project website: [Movie App]([https://mizzath2003.github.io/MovieApp/])
 
 ![Movie App](img.png)
 
