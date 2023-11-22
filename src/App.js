@@ -4,7 +4,7 @@ import MovieCard from "./MovieCard";
 import "./App.css";
 import SearchIcon from "./search.svg";
 
-//API KEY d097ca00
+//OMDb API KEY d097ca00
 const API_URL = "https://www.omdbapi.com?apikey=d097ca00";
 
 /* const movie1 = {
